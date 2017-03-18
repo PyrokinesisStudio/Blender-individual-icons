@@ -1002,7 +1002,7 @@ Unnamed (links will change) : ![](https://raw.githubusercontent.com/ChameleonSca
 
 ## TODO :
 + fix unnamed icons
-+ SVG gallery
++ SVG gallery (for a batch exportation, I'm looking into [**that**](https://github.com/berteh/svg-objects-export/issues/16))
 
 ## If you want to contribute :
 The original files are located in the blender repository [**right here**](https://developer.blender.org/diffusion/B/browse/master/release/datafiles/).
