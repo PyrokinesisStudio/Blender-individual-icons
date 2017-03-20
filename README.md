@@ -943,7 +943,7 @@ Unnamed (links will change) :  ![](https://raw.githubusercontent.com/ChameleonSc
 ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Brushicons/BRUSH_CLONE.png)
 ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Brushicons/BRUSH_CREASE.png)
 ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Brushicons/BRUSH_DARKEN.png)
-![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Brushicons/BRUSH_DRAW.pngB)
+![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Brushicons/BRUSH_DRAW.png)
 ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Brushicons/BRUSH_FILL.png)
 ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Brushicons/BRUSH_FLATTEN.png)
 ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Brushicons/BRUSH_GRAB.png)
