@@ -1,6 +1,6 @@
 # Blender individual icons
-### Here you'll find all the icons made by Andrzej Ambroz (Jendrzych) for the Blender interface, separated in individual images so you can link them in forum posts or download them.
-For now they're all in alphabetical order
+### Here you'll find all the icons made by Andrzej Ambroz (Jendrzych) for the Blender interface, separated in individual images so you can link them in forum posts or download them (I'll keep this repo for as long as I live and will let the URLs intact).
+For now they're all in alphabetical order (maybe I'll categorize them... But this won't change the URLS!)
 
 ### PNG 16x16 :
 ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/PNG-16x16/ICON_ACTION.png)
