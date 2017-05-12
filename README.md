@@ -1024,6 +1024,7 @@ Unnamed (links will change) : ![](https://raw.githubusercontent.com/ChameleonSca
 
 ### Bonus icons :
 ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Bonus/Download-blend.png)
+![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Bonus/Download-fbx.png)
 
 ## TODO :
 + fix unnamed icons
