@@ -1034,4 +1034,4 @@ Unnamed (links will change) : ![](https://raw.githubusercontent.com/ChameleonSca
 
 ## If you want to contribute :
 The original files are located in the blender repository [**right here**](https://developer.blender.org/diffusion/B/browse/master/release/datafiles/).
-You can also simply download the [**all-icons.svg**](https://github.com/ChameleonScales/Blender-individual-icons/raw/master/all-icons.svg).
+You can download them through the git web interface [**here**](https://git.blender.org/gitweb/gitweb.cgi/blender.git/tree/HEAD:/release/datafiles).
