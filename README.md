@@ -1030,7 +1030,7 @@ Unnamed (links will change) : ![](https://raw.githubusercontent.com/ChameleonSca
 
 ## TODO :
 + Name unnamed icons
-+ SVG gallery (for a batch exportation, I'm looking into [**that**](https://github.com/berteh/svg-objects-export/issues/16))
++ SVG gallery (haven't found a good way to batch the exportation like for the PNGs yet, but it may come in a future Inkscape release thanks to [**this**](https://github.com/berteh/svg-objects-export/issues/16))
 
 ## If you want to contribute :
 The original files are located in the blender repository [**right here**](https://developer.blender.org/diffusion/B/browse/master/release/datafiles/).
