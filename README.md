@@ -1029,7 +1029,7 @@ Unnamed (links will change) : ![](https://raw.githubusercontent.com/ChameleonSca
 ![](https://raw.githubusercontent.com/ChameleonScales/Blender-individual-icons/master/Bonus/Download-fbx.png)
 
 ## TODO :
-+ fix unnamed icons
++ Name unnamed icons
 + SVG gallery (for a batch exportation, I'm looking into [**that**](https://github.com/berteh/svg-objects-export/issues/16))
 
 ## If you want to contribute :
